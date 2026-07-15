@@ -1,14 +1,18 @@
 <div align="center">
 
-# Pranav
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="Pranav — Backend & Distributed Systems · Java" width="820">
+</picture>
 
 **I build backend systems that stay fast under load — event-driven microservices, streaming pipelines, and the caching layers that keep them honest.**
 
-Software Engineer · Backend & Distributed Systems · New York / New Jersey
+Software Engineer · New York / New Jersey
 
 <a href="https://linkedin.com/in/pranavpachpande09"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"></a>
 <a href="https://portfolio-pranav-rosy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=flat-square&logo=firefox&logoColor=7aa2f7" alt="Portfolio"></a>
-<a href="pranavpachpande3@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7" alt="Email"></a>
+<a href="mailto:pranavpachpande3@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7" alt="Email"></a>
 
 </div>
 
@@ -35,17 +39,17 @@ Right now I'm building a **mini-Redis in Java** from scratch (event loop, RESP p
 | Project | What it is | Stack |
 |---|---|---|
 | **[mini-redis-java](https://github.com/pranavRP/YOUR_REPO)** | In-memory key-value store implementing the RESP protocol with a single-threaded event loop and TTL-based eviction — built to understand *why* Redis makes the design choices it does. | Java 21, NIO |
+| **[fraud-detection-api](https://github.com/pranavRP/fraud-detection-api)** | Real-time transaction fraud detection with a rule-based risk-scoring engine — transactions stream through Kafka, rules evaluate against Redis-cached velocity counters, and flagged events feed a React analytics dashboard. | Java 21, Spring Boot, Kafka, Redis, PostgreSQL, React |
 | **[ECHO AI](https://github.com/pranavRP/YOUR_REPO)** | Full-stack AI chat app with streaming responses and conversation persistence. Interesting bit: server-sent events over a Node/Express layer fronting the Gemini API, so the UI stays responsive on slow generations. | React, Node.js, Express, Gemini API |
-| **[fraud-detection-api](https://github.com/pranavRP/fraud-detection-api)** | Real-time transaction fraud detection with a rule-based risk-scoring engine — transactions stream through Kafka, rules evaluate against Redis-cached velocity counters, and flagged events feed a React analytics dashboard. | Java 21, Spring Boot, Kafka, Redis, PostgreSQL, React | 
 | **[AV Platform Layer](https://github.com/pranavRP/YOUR_REPO)** | Autonomous-vehicle platform abstraction layer in modern C++ — RAII-driven resource management and a message-passing design that keeps sensor I/O off the hot path. | C++17, CMake |
 
 ---
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pranavpachpande09"><img src="https://img.shields.io/badge/-LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7"></a>&nbsp;
-<a href="pranavpachpande3@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7"></a>&nbsp;
-<a href="https://portfolio-pranav-rosy.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-1a1b26?style=flat-square&logo=firefox&logoColor=7aa2f7"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7"></a>&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/-Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7"></a>&nbsp;
+<a href="https://YOUR_PORTFOLIO.dev"><img src="https://img.shields.io/badge/-Portfolio-1a1b26?style=flat-square&logo=firefox&logoColor=7aa2f7"></a>
 
 <sub>Backend & distributed systems · NYC/NJ · Open to SWE roles</sub>
 

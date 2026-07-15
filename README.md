@@ -1,10 +1,62 @@
-# 💫 About Me:
-👋 Hi there! I'm Pranav Rajendra Pachpande, a passionate software engineer and web developer passionate about building scalable and user-centric digital solutions. I thrive at the intersection of technology, strategy, and design, leveraging my expertise in React, Node.js, and full-stack development to create impactful applications.  <br><br>🌍 Based in Jersey City, NJ | 🎓 MS in Computer Science at Pace University  <br><br>🔭 I’m currently working on:  <br>- AI-powered chat applications integrating Google Generative AI API and Firebase  <br>- Web and mobile applications using React, Node.js, and MongoDB  <br><br>🤝 I’m looking to collaborate on:  <br>- Full-stack web applications  <br>- AI-driven solutions and real-time applications  <br>- Open-source projects that promote learning and innovation  <br><br>💡 I’m looking for help with:  <br>- Advanced system design and cloud architecture  <br>- Learning more about scalable backend solutions and DevOps practices  <br><br>🌱 I’m currently learning:  <br>- TypeScript and nextJS   <br>- Cloud computing and distributed systems  <br><br>💬 Ask me about:  <br>- Web development best practices  <br>- Building AI-powered applications  <br>- Optimizing frontend performance  <br><br> Fun fact:  <br>- I love solving complex technical challenges, and I’m always eager to explore emerging tech trends!  <br><br>📫 Let's connect: www.linkedin.com/in/pranavpachpande09<br><br><br><br>
+<div align="center">
 
+# Pranav
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavRP) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranav.pachpande09@gmail.com) 
+**I build backend systems that stay fast under load — event-driven microservices, streaming pipelines, and the caching layers that keep them honest.**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+Software Engineer · Backend & Distributed Systems · New York / New Jersey
 
+<a href="https://linkedin.com/in/pranavpachpande09"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"></a>
+<a href="https://portfolio-pranav-rosy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=flat-square&logo=firefox&logoColor=7aa2f7" alt="Portfolio"></a>
+<a href="pranavpachpande3@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7" alt="Email"></a>
+
+</div>
+
+---
+
+## About
+
+I work on Java/Spring Boot microservices in production — currently at Freddie Mac, where my day-to-day is Kafka event pipelines, JPA/Redis performance tuning, and keeping p99 latency boring. Before that: full-stack delivery at TCS and SmartBear.
+
+Right now I'm building a **mini-Redis in Java** from scratch (event loop, RESP protocol, TTL eviction) to go deeper on the internals I usually consume from the client side. Open to Software Engineer roles.
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![Java](https://img.shields.io/badge/Java_17%2F21-1a1b26?style=flat-square&logo=openjdk&logoColor=7aa2f7) ![C++17](https://img.shields.io/badge/C%2B%2B17-1a1b26?style=flat-square&logo=cplusplus&logoColor=7aa2f7) ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=7aa2f7) ![SQL](https://img.shields.io/badge/SQL-1a1b26?style=flat-square&logo=postgresql&logoColor=7aa2f7) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1b26?style=flat-square&logo=springboot&logoColor=7aa2f7) ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-1a1b26?style=flat-square&logo=spring&logoColor=7aa2f7) ![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=flat-square&logo=nodedotjs&logoColor=7aa2f7) |
+| **Data & Messaging** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-1a1b26?style=flat-square&logo=apachekafka&logoColor=7aa2f7) ![Redis](https://img.shields.io/badge/Redis-1a1b26?style=flat-square&logo=redis&logoColor=7aa2f7) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=flat-square&logo=postgresql&logoColor=7aa2f7) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-1a1b26?style=flat-square&logo=amazonwebservices&logoColor=7aa2f7) ![Docker](https://img.shields.io/badge/Docker-1a1b26?style=flat-square&logo=docker&logoColor=7aa2f7) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1b26?style=flat-square&logo=githubactions&logoColor=7aa2f7) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-1a1b26?style=flat-square&logo=react&logoColor=7aa2f7) |
+
+## Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[mini-redis-java](https://github.com/pranavRP/YOUR_REPO)** | In-memory key-value store implementing the RESP protocol with a single-threaded event loop and TTL-based eviction — built to understand *why* Redis makes the design choices it does. | Java 21, NIO |
+| **[ECHO AI](https://github.com/pranavRP/YOUR_REPO)** | Full-stack AI chat app with streaming responses and conversation persistence. Interesting bit: server-sent events over a Node/Express layer fronting the Gemini API, so the UI stays responsive on slow generations. | React, Node.js, Express, Gemini API |
+| **[AV Platform Layer](https://github.com/pranavRP/YOUR_REPO)** | Autonomous-vehicle platform abstraction layer in modern C++ — RAII-driven resource management and a message-passing design that keeps sensor I/O off the hot path. | C++17, CMake |
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavRP&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=00000000" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavRP&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavRP&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://linkedin.com/in/pranavpachpande09"><img src="https://img.shields.io/badge/-LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7"></a>&nbsp;
+<a href="pranavpachpande3@gmail.com"><img src="https://img.shields.io/badge/-Email-1a1b26?style=flat-square&logo=gmail&logoColor=7aa2f7"></a>&nbsp;
+<a href="https://portfolio-pranav-rosy.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-1a1b26?style=flat-square&logo=firefox&logoColor=7aa2f7"></a>
+
+<sub>Backend & distributed systems · NYC/NJ · Open to SWE roles</sub>
+
+</div>

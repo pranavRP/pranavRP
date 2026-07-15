@@ -36,18 +36,8 @@ Right now I'm building a **mini-Redis in Java** from scratch (event loop, RESP p
 |---|---|---|
 | **[mini-redis-java](https://github.com/pranavRP/YOUR_REPO)** | In-memory key-value store implementing the RESP protocol with a single-threaded event loop and TTL-based eviction — built to understand *why* Redis makes the design choices it does. | Java 21, NIO |
 | **[ECHO AI](https://github.com/pranavRP/YOUR_REPO)** | Full-stack AI chat app with streaming responses and conversation persistence. Interesting bit: server-sent events over a Node/Express layer fronting the Gemini API, so the UI stays responsive on slow generations. | React, Node.js, Express, Gemini API |
+| **[fraud-detection-api](https://github.com/pranavRP/fraud-detection-api)** | Real-time transaction fraud detection with a rule-based risk-scoring engine — transactions stream through Kafka, rules evaluate against Redis-cached velocity counters, and flagged events feed a React analytics dashboard. | Java 21, Spring Boot, Kafka, Redis, PostgreSQL, React | 
 | **[AV Platform Layer](https://github.com/pranavRP/YOUR_REPO)** | Autonomous-vehicle platform abstraction layer in modern C++ — RAII-driven resource management and a message-passing design that keeps sensor I/O off the hot path. | C++17, CMake |
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavRP&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavRP&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavRP&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
-
-</div>
 
 ---
 
